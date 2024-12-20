@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wafa Pours It Out</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header class="header">
+        <h1>Wafa Pours It Out</h1>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="blogs.html">Blogs</a></li>
+                <li><a href="poems.html">Poems</a></li>
+                <li><a href="art.html">Art</a></li>
+                <li><a href="gallery.html">Photo Gallery</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main class="hero-section">
+        <h2>Where Thoughts Flow and Creativity Lives</h2>
+        <p>Welcome to my world of words, art, and inspiration.</p>
+    </main>
+</body>
+</html>
